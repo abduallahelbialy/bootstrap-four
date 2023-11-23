@@ -8,7 +8,7 @@
 .upperbar {
   background-color: var(--backgroud-color);
   color: #fff;
-  padding: 16px;
+  padding: 16px 0;
 }
 .upperbar .get {
   color: white;
@@ -88,7 +88,7 @@
 /* start featuer */
 .featuer {
   background-color: white;
-  padding: 50px;
+  padding: 50px 0;
 }
 .featuer h2 {
   color: var(--backgroud-color);
@@ -97,7 +97,7 @@
 
 .featuer i {
   color: #ec1c23;
-  padding: 12px;
+  padding: 12px 0;
   margin-bottom: 10px;
 }
 /* end featuer */
@@ -223,7 +223,7 @@
   width: 80%;
 }
 .pricing .row {
-  padding: 50px;
+  padding: 50px 0;
 }
 .pricing p.pr-one {
   background-color: #eee;
@@ -314,7 +314,7 @@
 /* end contact */
 /* start footer */
 .footer {
-  padding: 50px;
+  padding: 50px 0;
   background-color: white;
 }
 .footer span:first-child {
@@ -354,5 +354,5 @@
 }
 
 .copy i {
-  padding: 15px;
+  padding: 15px 0;
 }
